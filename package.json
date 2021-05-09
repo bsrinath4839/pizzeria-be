@@ -1,0 +1,20 @@
+{
+  "name": "pizzeria-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Srinath baride",
+    "email": "bsrinath4839@gmail.com"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
